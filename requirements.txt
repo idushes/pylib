@@ -1,6 +1,6 @@
 librosa>=0.7.2
 # tensorflow==2.1.0
-# tqdm>=4.45.0
+tqdm>=4.46.0
 # wandb>=0.8.31
 # pillow>=7.1.1
 # requests~=2.23.0
